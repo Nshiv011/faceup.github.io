@@ -1,0 +1,42 @@
+.right{
+    margin-left: 45%;
+    font-size: 30px;
+}
+
+
+.drop{
+    background-color:#fff;
+}
+
+.second{
+    margin-top: 1%;
+}
+.back{
+    background-color: darkgray;
+    width: 100%;
+    text-align: center;
+    
+}
+h1{
+    text-align: center;
+/*    font-display: block;*/
+    font-family: serif;
+    font-size: 30px;
+    
+}
+
+
+
+
+/*HOVER*/
+i:hover{
+    transform: scale(1.5);
+}
+
+
+img:hover{
+    transform: scale(1.1);
+}
+li:hover{
+    transform: scale(1.1);
+}
